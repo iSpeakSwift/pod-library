@@ -7,12 +7,17 @@
 //
 
 import UIKit
+import Foundation
+import HighOrder
+
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        
+        print(HighOrder.evenNumbers(Array(1...100)))
+        
     }
 
     override func didReceiveMemoryWarning() {

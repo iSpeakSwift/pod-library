@@ -1,3 +1,7 @@
+platform :ios, '8.0'
+source 'https://github.com/iSpeakSwift/spec.git'
+source 'https://github.com/iSpeakSwift/pod-library'
+
 use_frameworks!
 
 target 'pod-library_Example' do
