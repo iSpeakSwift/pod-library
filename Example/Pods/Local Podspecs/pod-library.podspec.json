@@ -1,0 +1,22 @@
+{
+  "name": "pod-library",
+  "version": "0.1.0",
+  "summary": "A short description of pod-library.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/iSpeakSwift/pod-library",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "iSpeakSwift": "blai@imobile3.com"
+  },
+  "source": {
+    "git": "https://github.com/iSpeakSwift/pod-library.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "pod-library/Classes/**/*"
+}
