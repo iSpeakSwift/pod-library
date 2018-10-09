@@ -8,15 +8,14 @@
 
 import UIKit
 import Foundation
-import HighOrder
-
+import pod_library
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        print(HighOrder.evenNumbers(Array(1...100)))
+        print(HighOrder.evenNumbers(intArray: Array(1...100)))
         
     }
 

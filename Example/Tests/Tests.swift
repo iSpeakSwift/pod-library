@@ -1,5 +1,5 @@
 import XCTest
-import pod-library
+import pod_library
 
 class Tests: XCTestCase {
     

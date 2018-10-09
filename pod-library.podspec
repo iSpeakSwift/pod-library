@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'pod-library'
-  s.version          = '0.1.0'
+  s.version          = '1.0.1'
   s.summary          = 'The purpose of this pod-library is to provide imobile3 with a private pod'
 
 # This description is used to generate tags and improve search results.

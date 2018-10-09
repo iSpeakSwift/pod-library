@@ -7,9 +7,9 @@
 
 import Foundation
 
-struct HighOrder{
+public class HighOrder{
     
-    func evenNumbers(intArray: [Int]) -> [Int]{
+    public class func evenNumbers(intArray: [Int]) -> [Int]{
         return intArray.filter{ $0 % 2 == 0}
     }
     
