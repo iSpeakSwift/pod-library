@@ -1,8 +1,8 @@
 {
   "name": "pod-library",
   "version": "0.1.0",
-  "summary": "A short description of pod-library.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "The purpose of this pod-library is to provide imobile3 with a private pod",
+  "description": "This purpose of this pod called pod-library is to maintain static & dynamic frameworks of imobile3 privately.",
   "homepage": "https://github.com/iSpeakSwift/pod-library",
   "license": {
     "type": "MIT",
@@ -18,5 +18,6 @@
   "platforms": {
     "ios": "8.0"
   },
+  "swift_version": "3.4",
   "source_files": "pod-library/Classes/**/*"
 }
